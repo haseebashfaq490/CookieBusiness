@@ -1,0 +1,6 @@
+{
+  "name": "The Cookies Ministry",
+  "description": "An elegant and animated landing page for The Cookies Ministry baking business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

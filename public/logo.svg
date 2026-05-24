@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#3e2723" />
+  <circle cx="50" cy="50" r="43" fill="none" stroke="#fdfaf5" stroke-width="2" stroke-dasharray="6 4" />
+  <circle cx="50" cy="50" r="35" fill="none" stroke="#fdfaf5" stroke-width="1" />
+  <!-- The M -->
+  <path d="M 31 63 L 35 38 L 50 51 L 65 38 L 69 63" fill="none" stroke="#d2691e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+  <!-- Decorative dots / chips -->
+  <circle cx="50" cy="28" r="2.5" fill="#fdfaf5" />
+  <circle cx="39" cy="30" r="2" fill="#fdfaf5" />
+  <circle cx="61" cy="30" r="2" fill="#fdfaf5" />
+</svg>
