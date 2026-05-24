@@ -20,7 +20,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16 md:h-20">
           <div className="flex items-center gap-3 md:gap-4">
             <div className="w-10 h-10 md:w-12 md:h-12 bg-brand-900 rounded-full flex items-center justify-center border-2 border-brand-900 shadow-sm overflow-hidden">
-              <img src="/logo.svg" alt="The Cookies Ministry Logo" className="w-full h-full object-cover" />
+              <img src="./logo.svg" alt="The Cookies Ministry Logo" className="w-full h-full object-cover" />
             </div>
             <a href="#" className="font-serif text-lg md:text-2xl font-black tracking-tight uppercase text-brand-950 block max-w-[160px] md:max-w-none leading-tight md:leading-normal">
               The Cookies Ministry
